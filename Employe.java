@@ -1,4 +1,4 @@
-public class Employé{
+﻿public class Employe{
 	
 	private String nom; 
 	private String prenom;
@@ -7,4 +7,7 @@ public class Employé{
 	private String adresse;
 	
 	private int age;
+	
+	public Employe(){
+	}
 }
